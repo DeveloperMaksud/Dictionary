@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-anydpi-v26_dictionary_round.xml.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-anydpi-v26/dictionary_round.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-hdpi_dictionary_round.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-hdpi/dictionary_round.png"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xxxhdpi_image.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xxxhdpi/image.png"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xxxhdpi_dictionary_round.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xxxhdpi/dictionary_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_new_background.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\new_background.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-mdpi_dictionary.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-mdpi/dictionary.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-pngs-45:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xxxhdpi_dictionary.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xxxhdpi/dictionary.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_option_menu.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\option_menu.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xhdpi_dictionary_round.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xhdpi/dictionary_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_start_outlined.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\start_outlined.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xxhdpi_dictionary_round.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xxhdpi/dictionary_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xhdpi_dictionary.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xhdpi/dictionary.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\layout_favourite_item.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\layout\\favourite_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\layout_dialog_about.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_for_items.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\for_items.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xhdpi_image.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xhdpi/image.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-mdpi_dictionary_round.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-mdpi/dictionary_round.png"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-anydpi-v26_dictionary.xml.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-anydpi-v26/dictionary.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_bot.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\bot.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xxhdpi_dictionary.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xxhdpi/dictionary.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_volume.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\font_new_font.otf.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\font\\new_font.otf"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-xxhdpi_image.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-xxhdpi/image.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\layout_item_word.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\layout\\item_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\layout_dialog_word_info.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\layout\\dialog_word_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_ic_baseline_volume_up_24.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\ic_baseline_volume_up_24.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-hdpi_dictionary.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-hdpi/dictionary.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\drawable_star_filled.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\drawable\\star_filled.xml"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-hdpi_image.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-hdpi/image.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\layout_favorites.xml.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\layout\\favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "uz.gita.newdictionaryapp-merged_res-50:/mipmap-mdpi_image.png.flat",
+        "source": "uz.gita.newdictionaryapp-main-52:/mipmap-mdpi/image.png"
+    },
+    {
+        "merged": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-merged_res-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MAKSUD\\.gradle\\daemon\\7.3.3\\uz.gita.newdictionaryapp-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
